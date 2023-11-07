@@ -1,0 +1,28 @@
+body {
+  padding: 10px;
+  background-color: red
+  font-family= Georgia, 'Time New Roman', Times, Serif;
+}
+h1 {
+  color: navy
+  font-size= 30px;
+  margin-bottom: 35px;
+  text-align: center;
+} 
+a {
+  text-decoration: none;
+  color:black;
+  font-size:1.5em;
+  border: 2px solid black;
+  padding: 5px;
+  background-image: linear-gradient(gray, white);
+} 
+body {
+  background-color: lightgray;
+} 
+p {
+  font-size: 1.25em;
+  margin-top: 35px;
+  line-height: 1.5;
+}
+  
