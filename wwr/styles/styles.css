@@ -40,7 +40,7 @@ main section {
 h2 {
     margin: 0;
 }
-nav, footer {
+header, nav, footer {
     background-color: #d9c2a3;
 }
 nav a {
