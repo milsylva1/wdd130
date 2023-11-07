@@ -31,7 +31,7 @@ main section {
   }
 
   body {
-    background-color: #d9c2a3;
+    background-color: white;
     font-family: Raleway, Arial, sans-serif;
     font-size: 22px;
     margin: 0;
@@ -40,7 +40,9 @@ main section {
 h2 {
     margin: 0;
 }
-
+nav, footer {
+    background-color: #d9c2a3;
+}
 nav a {
     text-decoration: none;
     color: black;
