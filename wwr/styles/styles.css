@@ -16,9 +16,11 @@ main section {
     text-align: center;
 }
 .icon, .logo {
-    with: 80px;
+    width: 80px;
 }
-
+#hero-msg {
+    text-align: center;
+}
 
 .msg {
     background-color: #6f7364;
@@ -38,7 +40,7 @@ h2 {
 
 nav a {
     text-decoration: none;
-    color: #fcfbfb;
+    color: black;
     text-align: center;
     padding: 35px;
 }
