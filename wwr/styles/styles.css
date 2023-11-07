@@ -21,6 +21,9 @@ main section {
 #hero-msg {
     text-align: center;
 }
+#hero-img {
+    width: 100%;
+}
 
 .msg {
     background-color: #6f7364;
@@ -63,5 +66,6 @@ main section img {
     box-sizing: border-box;
 }
             
-
-
+footer a {
+    text-decoration: none;
+}
