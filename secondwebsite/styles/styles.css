@@ -1,0 +1,86 @@
+.home-title {
+  font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+  font-size: 2em;
+}
+ 
+.msg {
+  background-color: #6f7364;
+    height: 200px;
+    background-color:rgba(237, 211, 163, 0.938)
+  }
+
+
+#content {
+  max-width: 1600px;
+  margin: 0 auto;
+}
+
+#background {
+  height: 725px;
+  background-color:rgba(237, 211, 163, 0.938)
+}
+
+main section {
+  text-align: center;
+}
+.icon, .logo {
+  width: 80px;
+}
+#hero-msg {
+  text-align: center;
+}
+#hero-img {
+  width: 100%;
+}
+
+.msg {
+  background-color: #6f7364;
+  line-height: 1.5em;
+}
+
+body {
+  background-color: #fcfbfb;
+  font-family: Raleway, Arial, sans-serif;
+  font-size: 22px;
+  margin: 50;
+  padding: 40;
+  border-image-outset: 15cm;
+}
+
+h2 {
+  margin: 15;
+}
+
+header, nav, footer {
+  background-color: #6f7364;
+}
+
+nav a {
+  text-decoration: none;
+  color:white;
+  text-align: center;
+  padding: 35px;
+}
+  
+.book, .join {
+  background-color: #d9c2a3;
+  color: #fcfbfb;
+  text-decoration: none;
+  font-size: 18px;
+  padding: 15px 30px;
+  margin-top: 50px;
+  border-radius: 5px;
+}
+
+
+.card-img {
+  border: 10px solid #d9c2a3;
+}
+main section img {
+  box-sizing: border-box;
+}
+          
+footer a {
+  text-decoration: none;
+}
+
