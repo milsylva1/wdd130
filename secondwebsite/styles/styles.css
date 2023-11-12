@@ -84,3 +84,8 @@ footer a {
   text-decoration: none;
 }
 
+.container {
+  
+  column-gap: 10px;
+  row-gap: 15px;
+}
