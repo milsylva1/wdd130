@@ -2,35 +2,7 @@
     font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
     font-size: 2em;
     margin-top: 10px;
-
 }
-@import url('https://fonts.googleapis.com/css2?family=Montez&family=Rock+Salt&display=swap');
-
-.msg {
-    background-color: #6f7364;
-    line-height: 1.5em;
-    padding: 25px;
-    margin-top: 50px;
-  }
-
-  body {
-    background-color: white;
-    font-family: Rock Salt;
-    font-size: 25px;
-    margin: 0;
-    padding: 0;
-}
-h2 {
-    margin: 0;
-}
-
-nav a {
-    text-decoration: none;
-    color: black;
-    text-align: center;
-    padding: 35px;
-}
-
 #logo_link {
     padding-top: 5px;
 }            
@@ -40,7 +12,7 @@ nav a {
 }
 #background {
     height: 725px;
-    background-color:#6f7364;
+    background-color:#d9c2a3;
 
 }
 .mountains {
@@ -62,18 +34,35 @@ main section {
     width: 100%;
 }
 
-
+.msg {
+    background-color: #6f7364;
+    line-height: 1.5em;
+    padding: 25px;
+    margin-top: 50px;
+  }
 .msg p {
     font-size: .8em;
     padding-bottom: 15px;
 }
-
-
-
-header, nav, footer {
-    background-color: #d9c2a3;
+  body {
+    background-color: white;
+    font-family: Raleway, Arial, sans-serif;
+    font-size: 25px;
+    margin: 0;
+    padding: 0;
 }
-
+h2 {
+    margin: 0;
+}
+header, nav, footer {
+    background-color: #6f7364;
+}
+nav a {
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    padding: 35px;
+}
     
 .book, .join {
     background-color: #d9c2a3;
